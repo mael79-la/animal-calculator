@@ -1,0 +1,23 @@
+{
+  "name": "Calculadora de Mascotas PWA",
+  "short_name": "PetCalc",
+  "description": "Calcula la edad humana de tus mascotas.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme-color": "#4CAF50",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
+
